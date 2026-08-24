@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Ganti URL di bawah dengan link gambar banner NOC Anda -->
-  <img src="https://via.placeholder.com/800x400.png?text=NOC+Jaka+Lintas+Akses" alt="NOC Jaka Lintas Akses Banner" width="100%">
+  <!-- GANTI 'images/banner-jaka-noc.png' DI BAWAH INI DENGAN JALUR GAMBAR ANDA -->
+  <img src="images/banner-jaka-noc.png" alt="Jaka Lintas Akses NOC Banner" width="100%">
 
   <h1>NOC ISP Automation & Management</h1>
   <p><b>Kumpulan Script, Konfigurasi Terpusat, dan Otomatisasi untuk Network Operations Center</b></p>
